@@ -1,0 +1,18 @@
+html, body {
+    height: 100vh;
+}
+
+.form-signin {
+    max-width: 400px;
+    padding: 15px;
+}
+
+.form-signin .form-floating:focus-within {
+    z-index: 2;
+}
+
+/* un toque de color corporativo al focus de los inputs */
+.form-control:focus {
+    border-color: #212529;
+    box-shadow: 0 0 0 0.25rem rgba(33, 37, 41, 0.25);
+}
