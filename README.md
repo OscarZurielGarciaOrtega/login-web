@@ -62,5 +62,5 @@ El proceso de acceso inicia en el archivo `login.html`. Las características pri
 ---
 
 ##  Enlaces Oficiales
-* **Repositorio en GitHub:** [PEGA AQUÍ EL LINK DEL REPOSITORIO]
+* **Repositorio en GitHub:** [https://github.com/OscarZurielGarciaOrtega/login-web]
 * **Sitio en Vivo (GitHub Pages):** [PEGA AQUÍ EL LINK DE GITHUB PAGES]
