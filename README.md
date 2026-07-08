@@ -47,7 +47,11 @@ El proceso de acceso inicia en el archivo `login.html`. Las características pri
 ##  Capturas de Pantalla del Flujo
 
 ### 1. Pantalla de Acceso 
-![Login del Sistema](img/login-captura.png) 
+![Login del Sistema](<img width="1852" height="881" alt="Captura de pantalla 2026-07-07 221905" src="https://github.com/user-attachments/assets/56106e76-0159-4665-9590-17382e399e39" />) 
+<img width="1152" height="745" alt="Captura de pantalla 2026-07-07 221924" src="https://github.com/user-attachments/assets/99d73bee-fe70-4d3d-933d-32f54401a9d5" />
+<img width="662" height="751" alt="Captura de pantalla 2026-07-07 221944" src="https://github.com/user-attachments/assets/b194447f-a58d-402c-a906-25134460835e" />
+
+
 *(Nota: Si se introducen datos incorrectos, los campos se marcan en rojo).*
 
 ### 2. Panel Principal (Dashboard)
