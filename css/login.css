@@ -16,3 +16,80 @@ html, body {
     border-color: #212529;
     box-shadow: 0 0 0 0.25rem rgba(33, 37, 41, 0.25);
 }
+
+/* ============================
+   SIDEBAR (panel principal)
+   ============================ */
+
+body {
+  padding-top: 56px; /* espacio para el navbar fixed-top */
+}
+
+.sidebar {
+  position: fixed;
+  top: 56px;
+  left: 0;
+  bottom: 0;
+  width: 240px;
+  overflow-y: auto;
+  z-index: 1030;
+  transition: margin-left 0.3s ease-in-out;
+}
+
+/* cuando se colapsa con el botón de la hamburguesa */
+.sidebar.sidebar-colapsado {
+  margin-left: -240px;
+}
+
+.contenido-principal {
+  margin-left: 240px;
+  transition: margin-left 0.3s ease-in-out;
+}
+
+/* cuando el sidebar está colapsado, el contenido ocupa todo el ancho */
+.contenido-principal.contenido-expandida {
+  margin-left: 0;
+}
+
+/* submenú de Usuarios > Captura, oculto por default */
+.submenu {
+  display: none;
+}
+
+.submenu.submenu-abierto {
+  display: block;
+}
+
+/* rotar la flechita del botón "Usuarios" cuando está abierto */
+#btnMenuUsuarios .bi-chevron-down {
+  transition: transform 0.2s ease-in-out;
+}
+
+#btnMenuUsuarios.menu-activo .bi-chevron-down {
+  transform: rotate(180deg);
+}
+
+.sidebar .nav-link {
+  color: #212529;
+}
+
+.sidebar .nav-link:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+}
+
+/* en pantallas pequeñas, el sidebar se comporta como overlay */
+@media (max-width: 768px) {
+  .sidebar {
+    margin-left: -240px;
+  }
+
+  .sidebar:not(.sidebar-colapsado) {
+    margin-left: 0;
+    box-shadow: 2px 0 8px rgba(0, 0, 0, 0.15);
+  }
+
+  .contenido-principal {
+    margin-left: 0;
+  }
+}
