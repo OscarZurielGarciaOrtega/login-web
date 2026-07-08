@@ -1,15 +1,15 @@
-/* 1. VARIABLES DEL COMPONENTE (con prefijo para no chocar con la página host) */
+
 .modal-ui {
-    --mui-color-primario: #927dc1;     /* Morado claro */
-    --mui-color-secundario: #4CC9F0;   /* Verde-azul */
-    --mui-color-texto: #2B2D42;        /* Texto principal */
-    --mui-color-borde: #E9ECEF;        /* Bordes sutiles */
-    --mui-color-error: #EF4444;        /* Rojo para validaciones */
+    --mui-color-primario: #927dc1;     
+    --mui-color-secundario: #4CC9F0;   
+    --mui-color-texto: #2B2D42;        
+    --mui-color-borde: #E9ECEF;        
+    --mui-color-error: #EF4444;        
     --mui-color-gris: #6C757D;
     --mui-color-fondo-input: #F1F3F5;
 }
 
-/* 2. OVERLAY (fondo oscuro) */
+
 .modal-overlay {
     position: fixed;
     inset: 0;
@@ -26,7 +26,7 @@
     display: flex;
 }
 
-/* 3. CAJA DEL MODAL */
+
 .modal-box {
     background: #ffffff;
     border-radius: 12px;
@@ -45,7 +45,7 @@
     to   { opacity: 1; transform: translateY(0) scale(1); }
 }
 
-/* 4. BOTÓN DE CERRAR (X) */
+
 .modal-box .modal-cerrar {
     position: absolute;
     top: 12px;
@@ -63,7 +63,7 @@
     color: var(--mui-color-texto);
 }
 
-/* 5. CONTENIDO TIPO "ETIQUETA + VALOR GRANDE" (ej. resultado, edad, total, etc.) */
+
 .modal-box .tag {
     font-size: 12px;
     text-transform: uppercase;
@@ -86,7 +86,7 @@
     margin: 10px 0 20px;
 }
 
-/* 6. TÍTULO Y CUERPO GENÉRICO (para modales tipo confirmación / info) */
+
 .modal-box .modal-titulo {
     font-size: 20px;
     font-weight: 700;
@@ -100,7 +100,7 @@
     margin-bottom: 20px;
 }
 
-/* 7. BOTONES DE ACCIÓN DENTRO DEL MODAL */
+
 .modal-box .modal-acciones {
     display: flex;
     gap: 10px;
@@ -141,7 +141,7 @@
     color: #fff;
 }
 
-/* 8. RESPONSIVE — mobile first para pantallas pequeñas */
+
 @media (max-width: 480px) {
     .modal-overlay {
         padding: 12px;
