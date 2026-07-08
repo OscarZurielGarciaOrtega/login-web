@@ -40,7 +40,7 @@ El proceso de acceso inicia en el archivo `login.html`. Las características pri
 4. Separación de código lógico creando el archivo `utileria.js` para almacenar herramientas globales (como el generador de ID).
 
 **Parte 2: Dashboard y Componentes**
-* **[ABISAID: ENUMERA AQUÍ LOS PASOS QUE SEGUISTE PARA TU INDEX.HTML Y TU MODAL]**
+* **[ENUMERA AQUÍ LOS PASOS QUE SEGUISTE PARA TU INDEX.HTML Y TU MODAL]**
 
 ---
 
