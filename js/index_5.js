@@ -1,26 +1,3 @@
-function validarCorreo(correo) {
-  const patron = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-  return patron.test(correo);
-}
-
-function validarPassword(password) {
-
-  const patron = /^(?=.*[A-Za-z])(?=.*\d).{6,}$/;
-  return patron.test(password);
-}
-
-function validarNumeroControl(numero) {
-  // Exactamente 6 dígitos
-  const patron = /^\d{6}$/;
-  return patron.test(numero);
-}
-
-function esMayorDeEdad(edad) {
-  return Number(edad) >= 18;
-}
-
-
-
 document.addEventListener("DOMContentLoaded", function () {
 
   const correoActivo = localStorage.getItem("usuarioSistema");
