@@ -69,21 +69,21 @@ Una vez dentro de `index.html`, el sistema despliega un **panel principal (dashb
 
 ### 2. Panel Principal (Dashboard)
 
-<!-- //aqui va una captura de como se ve el panel principal completo, con el sidebar abierto -->
+![alt text](image.png)
 
-<!-- //aqui va una captura del sidebar colapsado/cerrado, para mostrar el efecto de expandir el contenido -->
+![alt text](image.png)
 
-<!-- //aqui va una captura del submenu "Usuarios" desplegado mostrando la opcion "Captura" -->
+![alt text](image-1.png)
 
-<!-- //aqui va una captura del formulario de Captura de usuario lleno correctamente, con el mensaje de exito en verde -->
+![alt text](image-2.png)
 
 ### 3. Validación de Alumnos y Modal de Edad
 
-<!-- //aqui va una captura del formulario de Registro de alumno lleno -->
+![alt text](image-3.png)
 
-<!-- //aqui va una captura del ModalUI mostrando el resultado "Mayor de edad" -->
+![alt text](image-4.png)
 
-<!-- //aqui va una captura del ModalUI mostrando el resultado "Menor de edad" -->
+![alt text](image-5.png)
 
 ---
 
