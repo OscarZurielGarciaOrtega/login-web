@@ -89,4 +89,4 @@ Una vez dentro de `index.html`, el sistema despliega un **panel principal (dashb
 
 ##  Enlaces Oficiales
 * **Repositorio en GitHub:** [https://github.com/OscarZurielGarciaOrtega/login-web]
-* **Sitio en Vivo (GitHub Pages):** [PEGA AQUÍ EL LINK DE GITHUB PAGES]
+* **Sitio en Vivo (GitHub Pages):** [https://oscarzurielgarciaortega.github.io/login-web/]
