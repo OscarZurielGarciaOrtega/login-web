@@ -4,8 +4,8 @@
 **Institución:** Instituto Tecnológico de Oaxaca (ITO) - 7mo Semestre  
 
 ###  Integrantes del Equipo 
-1. **Garcia Ortega Oscar Zuriel** 
-2. **Ambrocio Garcia Emmanuel Abisai** 
+1. **Ambrocio Garcia Emmanuel Abisai** 
+2. **García Ortega Oscar Zuriel** 
 
 ---
 
