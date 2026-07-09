@@ -4,8 +4,8 @@
 **Institución:** Instituto Tecnológico de Oaxaca (ITO) - 7mo Semestre  
 
 ###  Integrantes del Equipo 
-1. **Garcia Ortega Oscar Zuriel** 
-2. **Ambrocio Garcia Emmanuel Abisai** 
+1. **Ambrocio Garcia Emmanuel Abisai** 
+2. **García Ortega Oscar Zuriel** 
 
 ---
 
@@ -65,7 +65,6 @@ Una vez dentro de `index.html`, el sistema despliega un **panel principal (dashb
 <img width="662" height="751" alt="Captura de pantalla 2026-07-07 221944" src="https://github.com/user-attachments/assets/b194447f-a58d-402c-a906-25134460835e" />
 
 
-*(Nota: Si se introducen datos incorrectos, los campos se marcan en rojo).*
 
 ### 2. Panel Principal (Dashboard)
 
@@ -89,4 +88,4 @@ Una vez dentro de `index.html`, el sistema despliega un **panel principal (dashb
 
 ##  Enlaces Oficiales
 * **Repositorio en GitHub:** [https://github.com/OscarZurielGarciaOrtega/login-web]
-* **Sitio en Vivo (GitHub Pages):** [PEGA AQUÍ EL LINK DE GITHUB PAGES]
+* **Sitio en Vivo (GitHub Pages):** [https://oscarzurielgarciaortega.github.io/login-web/]

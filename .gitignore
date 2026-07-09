@@ -1,17 +1,5 @@
-# Configuración de editores (VS Code, etc.)
 .vscode/
-.idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.swp
-
-# Archivos del sistema operativo
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# Archivos de entorno o secretos (por si acaso agregan credenciales después)
+node_modules/
 .env
-.env.local
+.DS_Store
+*.log
